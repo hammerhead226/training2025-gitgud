@@ -1,4 +1,4 @@
-# GitGud2025
+# GitGud
 Initial GitHub training
 
 Add a file to this GitHub repo! *Note: You have Devin's premission to commit to main for this particular repo :)*
